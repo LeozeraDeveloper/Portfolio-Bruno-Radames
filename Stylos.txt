@@ -1,0 +1,9 @@
+    
+
+
+margin-left: 300px;
+    margin-top: 94px;
+    margin-bottom: -141px;
+    width: auto;
+    text-align: center;
+    padding: 40px 20px;
